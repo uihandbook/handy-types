@@ -1,8 +1,8 @@
 export interface WithPadding {
   padding?: {
-    top: number,
-    right: number,
-    bottom: number,
-    left: number
-  } | number;
+    top: string,
+    right: string,
+    bottom: string,
+    left: string
+  } | string;
 };
