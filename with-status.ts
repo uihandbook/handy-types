@@ -1,3 +1,3 @@
 export interface WithStatus {
-  status?: "danger" | "warning" | "success" | "neutral" | "info"
+  status?: "error" | "warning" | "success" | "neutral" | "info"
 };
