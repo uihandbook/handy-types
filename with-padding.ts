@@ -7,7 +7,7 @@ export interface WithPadding {
   } | number;
 };
 
-export const getPaddingStyles = (padding: WithPadding['padding']) => {
+export const GetPadding = (padding: WithPadding['padding']) => {
   if(!padding) {
     return null;
   }

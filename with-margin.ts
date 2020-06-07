@@ -7,7 +7,7 @@ export interface WithMargin {
   } | number;
 };
 
-export const getMarginStyles = (margin: WithMargin['margin']) => {
+export const GetMargin = (margin: WithMargin['margin']) => {
   if(!margin) {
     return null;
   }
