@@ -1,6 +1,6 @@
 {
-  "name": "handy-types",
-  "version": "1.0.0",
+  "name": "@uihandbook/handy-types",
+  "version": "0.0.1",
   "description": "Utility Types for HandyUI",
   "main": "index.ts",
   "scripts": {
